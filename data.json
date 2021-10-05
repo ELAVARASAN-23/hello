@@ -1,26 +1,44 @@
-{
-	"id": "0001",
-	"type": "donut",
-	"name": "Cake",
-	"ppu": 0.55,
-	"batters":
-		{
-			"batter":
-				[
-					{ "id": "1001", "type": "Regular" },
-					{ "id": "1002", "type": "Chocolate" },
-					{ "id": "1003", "type": "Blueberry" },
-					{ "id": "1004", "type": "Devil's Food" }
-				]
-		},
-	"topping":
-		[
-			{ "id": "5001", "type": "None" },
-			{ "id": "5002", "type": "Glazed" },
-			{ "id": "5005", "type": "Sugar" },
-			{ "id": "5007", "type": "Powdered Sugar" },
-			{ "id": "5006", "type": "Chocolate with Sprinkles" },
-			{ "id": "5003", "type": "Chocolate" },
-			{ "id": "5004", "type": "Maple" }
-		]
-}
+[
+  {
+  "id": "101",
+  "name": "Elavarasan",
+  "role": "Software Developer",
+  "languages": ["Java","Python","php","JavaScript"],
+  "Interest": ["web Development","App Development"],    
+  },
+  {
+  "id": "102",
+  "name": "Naresh",
+  "role": "Adminstrator",
+  "languages": ["Java","Python","JavaScript"],
+  "Interest": ["web Development","cloud"],    
+  },
+  {
+  "id": "103",
+  "name": "Mouriesh",
+  "role": "Cloud Engineer",
+  "languages": ["Java","Python","JavaScript","Golang"],
+  "Interest": ["cloud Development","IOT"],    
+  },
+  {
+  "id": "104",
+  "name": "Dhoni",
+  "role": "Tester Developer",
+  "languages": ["Java","Python","php","JavaScript","Ruby"],
+  "Interest": ["App Development"],    
+  },
+  {
+  "id": "105",
+  "name": "Jack Sparrow",
+  "role": " Network engineer",
+  "languages": ["C","C++","Java","Python"],
+  "Interest": ["Cloud"],    
+  },
+  {
+  "id": "106",
+  "name": "Elon musk",
+  "role": "Data Scientist",
+  "languages": ["Python","R","Scala"],
+  "Interest": ["Robotics","AI"],    
+  },
+]
